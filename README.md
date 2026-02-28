@@ -24,3 +24,5 @@ https://www.sciencedirect.com/science/article/pii/S2590174525005707
 
 # Guide:
 https://www.linkedin.com/posts/anumula-dinesh-kumar-0302b2257_solarenergy-solarpv-photovoltaiceffect-activity-7382993788027269120-RRoW
+
+Ark.archive.org: http://web.archive.org/web/20260228170103/https://www.linkedin.com/posts/anumula-dinesh-kumar-0302b2257_solarenergy-solarpv-photovoltaiceffect-activity-7382993788027269120-RRoW
